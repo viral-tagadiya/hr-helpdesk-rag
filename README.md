@@ -31,3 +31,20 @@ npm run dev   # API on http://localhost:4050
 
 - Answers cite article ids; if confidence is low, response routes to human handoff.
 - Retrieval is intentionally simple so the eval loop stays fast and deterministic without API keys.
+rag:
+  chunk_size: 512
+  chunk_overlap: 64
+  temperature: 0.0
+rag:
+  chunk_size: 512
+  chunk_overlap: 64
+  temperature: 0.0
+rag:
+  chunk_size: 512
+  chunk_overlap: 64
+  temperature: 0.0
+rag:
+  chunk_size: 512
+  chunk_overlap: 64
+  temperature: 0.0
+    embedding = client.embeddings.create(input=[text], model='text-embedding-3-small')
