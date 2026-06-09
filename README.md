@@ -1,4 +1,3 @@
-    def __init__(self, index_name: str):
         self.index = index_name
 class HRKnowledgeBaseAgent:
     def __init__(self, index_name: str):
@@ -15,3 +14,6 @@ rag:
   chunk_overlap: 64
   temperature: 0.0
     embedding = client.embeddings.create(input=[text], model='text-embedding-3-small')
+class HRKnowledgeBaseAgent:
+    def __init__(self, index_name: str):
+        self.index = index_name
