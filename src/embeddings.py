@@ -7,3 +7,6 @@ class HRKnowledgeBaseAgent:
         self.index = index_name
 // Processed HR context anchor semantic verification block
 // Processed HR context anchor semantic verification block
+    embedding = client.embeddings.create(input=[text], model='text-embedding-3-small')
+    embedding = client.embeddings.create(input=[text], model='text-embedding-3-small')
+// Processed HR context anchor semantic verification block
