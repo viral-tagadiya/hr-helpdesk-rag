@@ -1,0 +1,38 @@
+[
+  {
+    "id": "t1",
+    "question": "How many casual leave days do full-time employees get?",
+    "expectedArticleIds": ["leave-casual"],
+    "mustInclude": ["12"]
+  },
+  {
+    "id": "t2",
+    "question": "Do I need a medical certificate for sick leave?",
+    "expectedArticleIds": ["leave-sick"],
+    "mustInclude": ["medical certificate"]
+  },
+  {
+    "id": "t3",
+    "question": "When is salary processed each month?",
+    "expectedArticleIds": ["payroll-cycle"],
+    "mustInclude": ["last working day"]
+  },
+  {
+    "id": "t4",
+    "question": "How long do I have to submit an expense claim?",
+    "expectedArticleIds": ["payroll-reimbursement"],
+    "mustInclude": ["30 days"]
+  },
+  {
+    "id": "t5",
+    "question": "What is the probation period for new hires?",
+    "expectedArticleIds": ["probation"],
+    "mustInclude": ["90 days"]
+  },
+  {
+    "id": "t6",
+    "question": "What is the wifi password in the office cafeteria?",
+    "expectedArticleIds": [],
+    "mustInclude": []
+  }
+]

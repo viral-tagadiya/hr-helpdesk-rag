@@ -1,0 +1,37 @@
+[
+  {
+    "id": "leave-casual",
+    "title": "Casual leave policy",
+    "url": "/help/leave/casual",
+    "tags": ["leave", "casual", "pto"],
+    "body": "Full-time employees receive 12 casual leave days each calendar year. Casual leave can be taken in half-day or full-day units. Unused casual leave does not carry forward past 31 December. Apply in the HR portal at least one working day before the leave date when possible."
+  },
+  {
+    "id": "leave-sick",
+    "title": "Sick leave policy",
+    "url": "/help/leave/sick",
+    "tags": ["leave", "sick"],
+    "body": "Employees get 10 sick leave days per year. Absences longer than two consecutive days require a medical certificate uploaded in the portal. Sick leave does not require advance notice for sudden illness, but notify your manager the same day."
+  },
+  {
+    "id": "payroll-cycle",
+    "title": "Payroll cycle and payslips",
+    "url": "/help/payroll/cycle",
+    "tags": ["payroll", "payslip", "salary"],
+    "body": "Salary is processed on the last working day of each month. Payslips appear under Me → Payroll within 24 hours of processing. Tax declarations must be submitted by the 10th of each month to affect that month's deduction."
+  },
+  {
+    "id": "payroll-reimbursement",
+    "title": "Expense reimbursements",
+    "url": "/help/payroll/reimbursement",
+    "tags": ["payroll", "expense", "reimbursement"],
+    "body": "Submit expense claims with receipts in the Expenses module within 30 days of the spend. Manager approval is required for claims above INR 5,000. Approved claims are paid with the next payroll cycle."
+  },
+  {
+    "id": "probation",
+    "title": "Probation and confirmation",
+    "url": "/help/employment/probation",
+    "tags": ["probation", "confirmation", "employment"],
+    "body": "New hires are on probation for 90 days. During probation, casual leave is limited to 1 day per month. Confirmation letters are issued by HR within 7 days after a successful probation review."
+  }
+]
